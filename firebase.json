@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "glowstore",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
